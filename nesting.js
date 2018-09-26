@@ -51,7 +51,16 @@ var employees = [
 */
 
 //Code Here
-
+function employeeUpdater (){
+  for(let i =0; i<arr.length; i++){
+    if(employees.name === 'Theo'){
+      delete employee.firstName;
+    }
+    if(employee.name === 'Lorie'){
+      
+    }
+  } 
+}
 
 
 ////////// PROBLEM 2 //////////
